@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krzysztof Rosada</title>
-    <link>http://example.org/</link>
+    <link>http://krosada.com/</link>
     <description>Recent content on Krzysztof Rosada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://krosada.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
